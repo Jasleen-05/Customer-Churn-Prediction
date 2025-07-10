@@ -14,6 +14,8 @@ The goal of this project is to develop a classification model that predicts cust
 * Classify customers at high risk of churn.
 * Help design effective retention strategies to reduce churn rates.
 
+## 💬 Live Demo: https://customer-churn-prediction-jasleen.streamlit.app
+
 ## 🛠️ Tech Stack
 
 * **Programming Language:** Python
